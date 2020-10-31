@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab8Goodson_Lists", "Lab8Goodson_Lists.csproj", "{CC5C8559-276A-46DA-8D0F-0AF6A4159B62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5C8559-276A-46DA-8D0F-0AF6A4159B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5C8559-276A-46DA-8D0F-0AF6A4159B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5C8559-276A-46DA-8D0F-0AF6A4159B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5C8559-276A-46DA-8D0F-0AF6A4159B62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C182DF5A-8C66-43F4-9C68-602D3E36884A}
+	EndGlobalSection
+EndGlobal

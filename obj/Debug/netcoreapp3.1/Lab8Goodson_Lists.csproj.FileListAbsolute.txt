@@ -1,0 +1,12 @@
+C:\Users\goods\source\repos\Lab8Goodson_Lists\bin\Debug\netcoreapp3.1\Lab8Goodson_Lists.exe
+C:\Users\goods\source\repos\Lab8Goodson_Lists\bin\Debug\netcoreapp3.1\Lab8Goodson_Lists.deps.json
+C:\Users\goods\source\repos\Lab8Goodson_Lists\bin\Debug\netcoreapp3.1\Lab8Goodson_Lists.runtimeconfig.json
+C:\Users\goods\source\repos\Lab8Goodson_Lists\bin\Debug\netcoreapp3.1\Lab8Goodson_Lists.runtimeconfig.dev.json
+C:\Users\goods\source\repos\Lab8Goodson_Lists\bin\Debug\netcoreapp3.1\Lab8Goodson_Lists.dll
+C:\Users\goods\source\repos\Lab8Goodson_Lists\bin\Debug\netcoreapp3.1\Lab8Goodson_Lists.pdb
+C:\Users\goods\source\repos\Lab8Goodson_Lists\obj\Debug\netcoreapp3.1\Lab8Goodson_Lists.AssemblyInfoInputs.cache
+C:\Users\goods\source\repos\Lab8Goodson_Lists\obj\Debug\netcoreapp3.1\Lab8Goodson_Lists.AssemblyInfo.cs
+C:\Users\goods\source\repos\Lab8Goodson_Lists\obj\Debug\netcoreapp3.1\Lab8Goodson_Lists.csproj.CoreCompileInputs.cache
+C:\Users\goods\source\repos\Lab8Goodson_Lists\obj\Debug\netcoreapp3.1\Lab8Goodson_Lists.dll
+C:\Users\goods\source\repos\Lab8Goodson_Lists\obj\Debug\netcoreapp3.1\Lab8Goodson_Lists.pdb
+C:\Users\goods\source\repos\Lab8Goodson_Lists\obj\Debug\netcoreapp3.1\Lab8Goodson_Lists.genruntimeconfig.cache
