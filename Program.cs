@@ -33,7 +33,7 @@ namespace Lab8Goodson_Lists
                  "JASON", "BLAKE", "ADRYENNE", "DARSHAN", "DYLAN", "DANNY"};
 
             bool keepGoing = true;
-            Console.WriteLine("Which student would you like to learn more about? Enter a number 0 and 11 OR their name: ");
+            Console.WriteLine("Which student would you like to learn more about? Enter a number between 0 and 11 OR their name: ");
 
             do
             {
